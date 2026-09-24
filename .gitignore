@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Temp / backup files
+*.tmp
+*.bak
+~$*
+
+# Secrets (never commit)
+.env
+*.key
