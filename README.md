@@ -16,7 +16,7 @@ Python (Pandas, Matplotlib, Seaborn)  ->  clean data + visual EDA
 Cleaned CSV (32,406 rows, 14 columns)
    |
    v
-PostgreSQL  ->  schema + 18 analysis queries + reporting view (loans_view)
+PostgreSQL  ->  schema + 14 analysis queries + reporting view (loans_view) + 3 KPI queries
    |
    v
 Power BI  ->  3-page interactive dashboard
