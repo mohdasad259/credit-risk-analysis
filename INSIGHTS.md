@@ -83,7 +83,7 @@ The pattern holds **inside every loan grade**, so it is not just a grade effect:
 
 Renters (31.61%) vs homeowners (11.80%) is a gap of about **2.7x**. Renters are **50.5% of applicants but 73.0% of defaults**.
 
-Renters stay riskier within each grade (homeowners = OWN + MORTGAGE):
+Renters stay riskier within loan grades A to F (homeowners = OWN + MORTGAGE):
 
 | Grade | Renters (n) | Homeowners (n) |
 |-------|-------------|----------------|
@@ -91,6 +91,10 @@ Renters stay riskier within each grade (homeowners = OWN + MORTGAGE):
 | B | **24.1%** (5,529) | 7.4% (4,822) |
 | C | **26.6%** (3,678) | 12.8% (2,740) |
 | D | **73.8%** (2,109) | 38.3% (1,490) |
+| E | **75.5%** (560) | 48.6% (395) |
+| F | **78.0%** (127) | 61.6% (112) |
+
+Grade G does not follow this pattern (renters 96.4%, n = 28; homeowners 100%, n = 36), but its samples are tiny.
 
 Average income of renters (55,007) and `OWN` applicants (57,859) is similar, yet their default rates are 31.61% vs 7.49%. So income alone does not explain this gap. Housing status may be standing in for something not in the data, such as savings, stability or family support.
 

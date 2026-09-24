@@ -72,7 +72,7 @@ Each page has slicers and a short Key Insights box.
 | Portfolio default rate | **21.87%** (7,088 of 32,406) |
 | Loan grade | **9.96%** (A) to **59.05%** (D) to **98.44%** (G, only 64 loans: strong signal, not proof) |
 | Loan-to-income above 30% | **70.43%** vs **15.39%** (about 4.6x); 11.8% of applicants, 37.9% of defaults |
-| Home ownership | Renters **31.61%** vs homeowners **11.80%** (about 2.7x), also within each grade |
+| Home ownership | Renters **31.61%** vs homeowners **11.80%** (about 2.7x), also within loan grades A to F |
 | Loan purpose | Debt consolidation **28.68%** vs venture **14.86%** |
 | Employment length | **24.20%** for 0 to 5 years vs about **16%** for 11+ years |
 | Age, credit history, prior default | Little independent pattern; prior default overlaps with grade |

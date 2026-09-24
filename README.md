@@ -107,7 +107,7 @@ Run all cells. The cleaned file `cleaned_credit_risk_data.csv` is saved next to 
 - **Overall default rate is 21.87%** (7,088 of 32,406 loans) on a total loan amount of **₹310.86M**.
 - **Loan grade separates risk sharply:** default rate rises from **9.96% (Grade A)** to **59.05% (Grade D)**. Grades D to G are 15.1% of loans but 42.2% of all defaults.
 - **Loan-to-income above 30% is the strongest affordability signal:** **70.43%** default vs **15.39%** at or below 30% (about 4.6x). This group is 11.8% of applicants but 37.9% of defaults.
-- **Renters default at 31.61%** vs **11.80%** for homeowners (own + mortgage), about 2.7x. The gap remains inside each loan grade.
+- **Renters default at 31.61%** vs **11.80%** for homeowners (own + mortgage), about 2.7x. The gap remains within loan grades A to F.
 - **Loan purpose matters moderately:** debt consolidation is highest at **28.68%**, venture is lowest at **14.86%**.
 - **Age and credit history length show little pattern** (about 21% to 23% across most groups). Prior-default status mostly overlaps with loan grade.
 
